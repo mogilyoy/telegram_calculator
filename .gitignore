@@ -16,4 +16,4 @@ data/imgs/[/*
 data/imgs/]/*
 data/csvs/*
 data/data.csv
-./random_forest.pkl
+random_forest.pkl
