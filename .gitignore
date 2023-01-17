@@ -1,0 +1,17 @@
+data/imgs/%/*
+data/imgs/*/*
+data/imgs/+/*
+data/imgs/-/*
+data/imgs/0/*
+data/imgs/1/*
+data/imgs/2/*
+data/imgs/3/*
+data/imgs/4/*
+data/imgs/5/*
+data/imgs/6/*
+data/imgs/7/*
+data/imgs/8/*
+data/imgs/9/*
+data/imgs/[/*
+data/imgs/]/*
+data/csvs/*
