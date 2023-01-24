@@ -18,3 +18,4 @@ data/csvs/*
 data/data.csv
 random_forest.pkl
 data/imgs/*
+model_prep/cfg.py
